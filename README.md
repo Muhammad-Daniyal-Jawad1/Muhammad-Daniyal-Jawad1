@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Daniyal Jawad, a CS Junior at FAST-NUCES Lahore
-- 👀 I’m interested in ... Web Developmenr, Data Science and Cybersecurity
+- 👀 I’m interested in ... Web Development, Data Science and Cybersecurity
 - 🌱 I’m currently learning ... React and Typescript
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/muhammad-daniyal-jawad-411306272/
 
