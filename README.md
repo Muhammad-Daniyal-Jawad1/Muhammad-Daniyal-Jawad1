@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Daniyal Jawad, a CS Junior at FAST-NUCES Lahore
 - 👀 I’m interested in ... Web Development and AI
-- 🌱 I’m currently learning ...Typescript,Golang and Rust
+- 🌱 I’m currently learning ...Typescript, Golang and Rust
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/muhammad-daniyal-jawad-411306272/
 
 <!---
