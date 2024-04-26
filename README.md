@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Projects**
 
-- 🌱 I’m currently learning **Golang, Rust and Typescript**
+- 🌱 I’m currently learning **Angular and Typescript (with Rust and Golang on the side)**
 
 - 👯 I’m looking to collaborate on **any Full-Stack Projects (Preferably with AI as a Component)**
 
