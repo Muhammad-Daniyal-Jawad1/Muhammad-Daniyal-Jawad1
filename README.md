@@ -18,4 +18,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-daniyal-jawad1&show_icons=true&locale=en&layout=compact" alt="muhammad-daniyal-jawad1" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-daniyal-jawad1&" alt="muhammad-daniyal-jawad1" /></p>
+
